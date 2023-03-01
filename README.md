@@ -2,7 +2,7 @@
 
 TS配列のGH60互換キーボードPCB
 
-![Photo](Assets/X60.jpeg)  
+![Photo](Render/X60layout.png)  
 ![PCB](Render/X60pcb.png)  
 
 
